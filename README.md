@@ -39,3 +39,4 @@ Model: "functional_8"
  Total params: 839,107 (3.20 MB)
  Trainable params: 839,107 (3.20 MB)
  Non-trainable params: 0 (0.00 B)
+ 
