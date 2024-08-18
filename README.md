@@ -6,7 +6,7 @@ The goal of this project is to develop a deep learning-based model that can accu
 I build a model on this and achieving a better accuracy of 75% ont his model after tuning the paramenters.
 
 ![image](https://github.com/user-attachments/assets/aed2a4f5-e56b-47be-b729-83c2cefbe6ca)
-Model: "functional_8"
+![image](https://github.com/user-attachments/assets/953e49f5-a51f-428b-b46e-d491a3e36d27)
+
 Download the dataset from kaggle :
-Dataset Link:
- https://www.kaggle.com/datasets/jangedoo/utkface-new
+Dataset Link:https://www.kaggle.com/datasets/jangedoo/utkface-new
