@@ -7,6 +7,7 @@ I build a model on this and achieving a better accuracy of 75% ont his model aft
 
 ![image](https://github.com/user-attachments/assets/aed2a4f5-e56b-47be-b729-83c2cefbe6ca)
 Model: "functional_8"
+CNN Architecture:
 ┏━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
 ┃ Layer (type)        ┃ Output Shape      ┃    Param # ┃ Connected to      ┃
 ┡━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━┩
